@@ -6,5 +6,8 @@ I believe I've found my love for frontend again.
 
 This repo will be a portfolio of svelte projects.
 <li>
+  Directory A - Svelte Basics and Tutorial...
+</li>
+<li>
   Project one - guitar market monitor. We'll query the reverb api(?) (not actually sure there is one). Then we'll show the latest sales for the Fender Strat and Gibson Les Paul...
 </li>
